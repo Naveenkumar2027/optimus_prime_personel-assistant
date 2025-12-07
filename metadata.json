@@ -1,0 +1,8 @@
+{
+  "name": "Prime AI Assistant",
+  "description": "A sophisticated, Alexa-style personal assistant named Prime. Features voice interaction, device control simulation, camera integration, and real-time audio visualization.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
